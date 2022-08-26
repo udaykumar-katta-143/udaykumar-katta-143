@@ -1,0 +1,5 @@
+﻿5.What is client and server brief in two sentences?
+Ans.  The Server
+To put simply, a server is just a computer. The real magic of a server lies within its role in providing data to other computers.
+The Client
+On the flip side of this relationship, we have the client. The client, too, is a computer in and of itself.
